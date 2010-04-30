@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{E0C4CDE6-B5FA-4C27-B1B1-4FA5D27FD110}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C4CDE6-B5FA-4C27-B1B1-4FA5D27FD110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C4CDE6-B5FA-4C27-B1B1-4FA5D27FD110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C4CDE6-B5FA-4C27-B1B1-4FA5D27FD110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C4CDE6-B5FA-4C27-B1B1-4FA5D27FD110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
